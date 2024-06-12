@@ -1,0 +1,19 @@
+.append = puts the element in the last
+.strip()
+max
+min
+count = counts
+list.sort = it doesn't return
+sorted = it returns the new list
+pop
+(name).remove("(what remove)")
+.isalnum() = Is it alphanumeric?
+.isalpha() = is it all alphabet?
+.isnumeric() = is it all numeric? similar functions: .isdecimal(), .isdigit()
+.split()
+.replace()
+.endwith
+.find('(what find)'):  = it shows the number of the location  -> it's only for string. Not list
+.index('(what find)') = same as .find, but list ver.
+.insert('the position in the list', 'what you want to insert') -> It inserts the word between the letters, if the posiiton is provided.
+.split
